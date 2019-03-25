@@ -1,0 +1,17 @@
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.exe.config
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.exe
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.pdb
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\nunit.framework.dll
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\WebDriver.dll
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\nunit.framework.pdb
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\nunit.framework.xml
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\WebDriver.xml
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csprojAssemblyReference.cache
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.CoreCompileInputs.cache
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.CopyComplete
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.exe
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.pdb
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\nunit.engine.dll
+C:\Users\aruns\source\repos\AutomationTesting\AutomationTesting\bin\Debug\nunit.engine.api.dll
