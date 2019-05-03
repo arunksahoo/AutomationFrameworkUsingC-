@@ -1,4 +1,7 @@
 # ASP.NET Core (.NET Framework)
+- task: VSTest@2
+  inputs:
+    testSelector: 'testAssemblies'
 - task: PublishTestResults@2
   inputs:
     testRunner: 'NUnit'
